@@ -1,4 +1,3 @@
-# corona
 # Python Program for Corona Inception Voltage
 
 import math
